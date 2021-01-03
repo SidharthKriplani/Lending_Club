@@ -1,4 +1,4 @@
-# Lending_Club_Case_Study
+# Lending_Club
 Data Cleaning, EDA
 
 
